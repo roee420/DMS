@@ -1,0 +1,27 @@
+header {
+    width: 1922px;
+    height: 95px;
+    background-color: #121214;
+    margin: -10px 10px 10px -10px;
+    float: none;
+
+
+}
+
+main {
+    width: 1922px;
+    height: 87.5%;
+    background-color: #000000;
+    margin: -10px 10px 10px -10px;
+
+
+}
+
+.logo {
+    height: 95px;
+    width: 95px
+}
+
+@media all and (max-width: 4000px) and  (orientation: landscape){
+
+}
