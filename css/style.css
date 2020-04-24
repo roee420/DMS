@@ -29,13 +29,14 @@ section {
     align-self: center;
     border: 1px solid red;
     box-sizing: border-box;
-    height:33.33%;
+    height: 33.33%;
     position: relative;
 }
 
 .lol1 {
     width: calc(100% / 10 * 5);
     background-size: cover;
+    height: 45%;
 }
 
 .lol2 {
