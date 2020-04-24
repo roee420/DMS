@@ -6,9 +6,6 @@ header {
     height: 95px;
     background-color: #121214;
     float: none;
-
-
-
 }
 
 main {
@@ -52,4 +49,19 @@ section {
     width: calc(100% / 10 * 2);
     margin-top: auto;
    
+}
+
+.video {
+    width: 950px;
+    height: 435px;
+}
+
+.dj {
+    width: 570px;
+    height: 322px;
+}
+
+.photo {
+    width: 380px;
+    height: 322px;
 }
