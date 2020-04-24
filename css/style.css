@@ -31,3 +31,18 @@ section {
     height:33.33%;
     position: relative;
 }
+
+.lol1 {
+    width: calc(100% / 10 * 5);
+    background-size: cover;
+}
+
+.lol2 {
+    width: calc(100% / 10 * 3);
+    background-size: cover;
+}
+
+.lol3 {
+    width: calc(100% / 10 * 2);
+    background-size: cover;
+}
