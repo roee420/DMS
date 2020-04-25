@@ -43,9 +43,10 @@
 }
 
 #large2 {
-    width: 37.5px;
+    width: 35px;
     height: 37.5px;
-    padding: 25px;
+    padding: 1px;
+    margin-top: 30px;
 }
 
 
