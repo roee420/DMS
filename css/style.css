@@ -74,6 +74,8 @@ section {
     box-sizing: border-box;
     height: 33.33%;
     position: relative;
+    border: 1px solid red;
+    
 }
 
 .lol1 {
@@ -84,16 +86,62 @@ section {
     
 }
 
-.lol4 {
+.lol2 {
+    background-size: cover;
+    align-self: auto;
     width: calc(100% / 10 * 3);
-     margin-top: auto;
-     margin-right: 50%;
+    height: 45%;
+
+}
+
+.lol3 {
+    background-size: cover;
+    align-self: auto;
+    width: calc(100% / 10 * 2);
+    height: 45%;
+
+}
+
+.lol4 {
+    background-size: cover;
+    width: calc(100% / 10 * 3);
+    align-self: auto;
     
 }
 
+.lol5 {
+    background-size: cover;
+    align-self: auto;
+    width: calc(100% / 10 * 3);
+
+}
+
+.lol6 {
+    background-size: cover;
+    align-self: auto;
+    width: calc(100% / 10 * 4);
+
+}
+
+.lol7 {
+    background-size: cover;
+    align-self: auto;
+    width: calc(100% / 10 * 3);
+
+}
+
+.lol8{
+    background-size: cover;
+    align-self: auto;
+    width: calc(100% / 10 * 5);
+
+}
+
 .lol9 {
+    background-size: cover;
+    align-self: auto;
     width: calc(100% / 10 * 2);
-    margin-top: auto;
+   
    
 }
 
