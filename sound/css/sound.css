@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    font-family: 'Rubik', sans-serif;
 }
 #header {
     width: 100%;
@@ -66,4 +67,23 @@ main {
 .logo {
     height: 95px;
     width: 95px
+}
+.soon {
+    width: 75%;
+    height: 75%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #121214;
+}
+.coming {
+    font-size: 40pt;
+    color: #C9E165;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+@media all and (max-width: 4000px) and  (orientation: landscape) {
 }

@@ -67,3 +67,5 @@ main {
     height: 95px;
     width: 95px
 }
+@media all and (max-width: 4000px) and  (orientation: landscape) {
+}
