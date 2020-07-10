@@ -186,9 +186,26 @@ section {
 }
 .space {
     width:100%;
-    height: 20%;
+    height: 197px;
     background-color: black;
 }
-
+.textHead {
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50px;
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: -456px;
+    background-color: #121214;
+}
+.feet {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
 @media all and (max-width: 4000px) and  (orientation: landscape) {
 }
